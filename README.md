@@ -46,8 +46,9 @@
 
 ### 🏡 프로젝트 필요성
 **** ** **
+![대원추](https://github.com/beyond-sw-camp/be05-1st-4team-DOC/assets/140836341/821ff234-3689-43a2-ab9b-5fbb8e09cd4c)
 
-![lll](https://github.com/yun072/gitproject/assets/140836341/f7ebee14-d9bc-4a9f-8fc9-002f69a00e91)
+
 
 
 
